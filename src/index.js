@@ -1,3 +1,4 @@
+const google = window.google;
 // import { MarkerClusterer } from "@googlemaps/markerclusterer";
 // ggl clustering: https://developers.google.com/maps/documentation/javascript/marker-clustering
 /* eslint-disable no-undef */
