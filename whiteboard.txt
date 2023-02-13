@@ -10,3 +10,4 @@ whiteboard.txt
 - figures out cleanliness, safety, freedom in both discrimination and monetarily so
 - "places" api?
 - Only push to dev at first
+- Need multiple API's, be careful for daily limit charge on account or infinite for loop costing money
