@@ -56,12 +56,10 @@ function handleMap(){
       marker.openPopup();
       const title = input.value;
       popup.setContent(`${title} ${buttonRemove}`);
-      
     });
   });
 }    
 
 window.addEventListener('load', function() {
   handleMap();
-  
 });
