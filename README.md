@@ -1,30 +1,28 @@
 # _Toilet Tracker_
 
-#### By _Vera Weikel_
+#### By _Asia K, Erin Timlin, Kai Clausen, Noah Atkinson, Owen, Vera Weikel_
 
-#### _A project built to create a currency exchange application_
+#### _A project application built to Add/Find a bathroom_
 
 ## Technologies Used
 
 - _JavaScript_
 - _HTML_
 - _CSS_
+- _Bootstrap_
 - _Webpack_
+- _Leaflet_
 - _Eslint_
 - _Babel_
 - _API call_
 - _Node_
 
-## Goal
+## Goal/Description
 
-_This project objective is to further explore and practice API's_
-
-## Description
-
-In the currency exchange application, a user should be able to type in an amount (in U.S. dollars) and then choose which currency it should be converted to (such as francs, marks, rupees, and so on). To determine the most recent exchange rate, your application will make an API call to the following exchange rate API.
+_This project objective is to further explore and practice API's and help people Add/Find a bathroom_
 
 ## Setup/Installation Requirements
-- To get an API key for ExchangeRate-API click [here](https://www.exchangerate-api.com/)
+- To get an API key for ExchangeRate-API click [here](https://leafletjs.com/)
 - Input your email address and click the "Get Free Key" button.
 - You'll be prompted to create an account with your email, first name and a password. Agree to the terms of use and click "Get Started!"
 - At this point, you'll be able to access a dashboard that includes your API key as well as your remaining API calls for two weeks.
@@ -45,7 +43,7 @@ In the currency exchange application, a user should be able to type in an amount
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2023 Vera Weikel
+Copyright (c) 2023 Asia K, Erin Timlin, Kai Clausen, Noah Atkinson, Owen, Vera Weikel
 
 MIT License
 
