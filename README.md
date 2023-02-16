@@ -1,51 +1,46 @@
 # _Toilet Tracker_
 
-#### By _Vera Weikel_
+#### By _Asia Kaplanyan, Erin Timlin, Kai Clausen, Noah Atkinson, Owen Brown, Vera Weikel_
 
-#### _A project built to create a currency exchange application_
+#### _A project application built to Add/Find a bathroom_
 
 ## Technologies Used
 
 - _JavaScript_
 - _HTML_
 - _CSS_
+- _Bootstrap_
 - _Webpack_
+- _Leaflet_
 - _Eslint_
 - _Babel_
 - _API call_
 - _Node_
 
-## Goal
+## Goal/Description
 
-_This project objective is to further explore and practice API's_
-
-## Description
-
-In the currency exchange application, a user should be able to type in an amount (in U.S. dollars) and then choose which currency it should be converted to (such as francs, marks, rupees, and so on). To determine the most recent exchange rate, your application will make an API call to the following exchange rate API.
+_This project objective is to further explore and practice API's and help people Add/Find a bathroom_
 
 ## Setup/Installation Requirements
-- To get an API key for ExchangeRate-API click [here](https://www.exchangerate-api.com/)
-- Input your email address and click the "Get Free Key" button.
-- You'll be prompted to create an account with your email, first name and a password. Agree to the terms of use and click "Get Started!"
-- At this point, you'll be able to access a dashboard that includes your API key as well as your remaining API calls for two weeks.
 - Clone or download to your local repository
-- add .env to our .gitignore file now.
-- create a .env file in the root directory of our project
-- The variable that we're storing in the .env is the key: API_KEY
 - run npm install
-- in your terminal, run $npm install dotenv-webpack@2.0.0 --save-dev
 - npm run start to build and launch server
 
 
 ## Known Bugs
 
-- _None_
+- _No shadow for marker_
+- _Marker image will only show up for some people, broken image for others_
+- _You have to click away from a marker before deleting it_
+- _Functionality to be added for rating bathrooms_
+- _
+
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2023 Vera Weikel
+Copyright (c) 2023 Asia Kaplanyan, Erin Timlin, Kai Clausen, Noah Atkinson, Owen, Vera Weikel
 
 MIT License
 
